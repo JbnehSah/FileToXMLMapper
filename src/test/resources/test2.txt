@@ -1,0 +1,5 @@
+P|Elof|Sundin
+F|Hans|1967
+A|Frodegatan 13B|Uppsala|75325
+F|Anna|1969
+T|073-101802|08-101802
